@@ -1,4 +1,4 @@
-# python01
+# python0123
 mynames = [ "Sam", "Pit", "Misch" ]
 for n in mynames:
  print "HELLO ", n
